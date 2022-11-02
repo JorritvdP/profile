@@ -48,6 +48,7 @@ h2{
 
 .fa-brands:hover {
   font-size: 37px;
+  color: #EEC643;
 }
 
 .btn:hover{
@@ -62,7 +63,7 @@ h2{
 }
 
 li{
-  list-style: none;
+  list-style: none;  
 }
 
 .socials ul{
@@ -75,8 +76,8 @@ li{
   background-color:#4F5D2F;
   border-radius: 15px;
   width: 80vw;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 12px;
+  padding-bottom: 12px;
   vertical-align: middle;
   margin: 3px auto 12px auto;
 }
@@ -91,4 +92,9 @@ li{
   background-color: #F8FCC9;
   border-radius: 10px;
   box-shadow: 2px 2px 2px #F8FCC9;
+  border: none;
+}
+
+#desktop {
+  color: gray;
 }
