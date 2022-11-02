@@ -1,0 +1,94 @@
+body {
+  background-color: #F8FCC9;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 1em;
+  color: #EEF0F2;
+  text-align: center;
+  margin: 0;
+}
+
+h1{
+  font-weight: bold;
+  color: #EEC643;
+  font-size: 2.5em;
+}
+
+#profile_picture{
+  height: 15vw;
+  width: 15vw;
+  border-radius: 50%;
+}
+
+h2{
+  color: #EEC643;
+  font-size: 1.7em;
+}
+
+.description p {
+  width: 30vw;
+  text-align: center;
+  margin: auto
+}
+
+.header{
+  font-family: 'Montserrat', sans-serif;
+}
+
+.link{
+  text-decoration: none;
+  color: #EEF0F2;
+  padding: 5px;
+}
+
+.fa-brands {
+  margin: 5px;
+  font-size: 35px;
+  color: #EEF0F2;
+}
+
+.fa-brands:hover {
+  font-size: 37px;
+}
+
+.btn:hover{
+  background-color: #EEC643;
+}
+
+#text_link{
+  color: #4F5D2F;
+  font-size: 1.7em;
+  font-weight: bold;
+  padding: 25px;
+}
+
+li{
+  list-style: none;
+}
+
+.socials ul{
+  display: flex;
+  width: max-content;
+  margin: 0 auto;
+}
+
+.block{
+  background-color:#4F5D2F;
+  border-radius: 15px;
+  width: 80vw;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  vertical-align: middle;
+  margin: 3px auto 12px auto;
+}
+
+.weather{
+  padding: 15px 0 15px 0;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.btn {
+  background-color: #F8FCC9;
+  border-radius: 10px;
+  box-shadow: 2px 2px 2px #F8FCC9;
+}
